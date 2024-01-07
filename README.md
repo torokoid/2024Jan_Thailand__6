@@ -137,6 +137,8 @@ p.note { display: none; }
 <a href="20240107_003.JPG" data-lightbox="abc"><img src="20240107_003.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">洗面器の中にも</span></h2>
 <a href="20240107_004.JPG" data-lightbox="abc"><img src="20240107_004.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">あまりメスに近づくとオスたちが威嚇してきます<br>後ろからニワトリまで加勢<br>突かれると痛いので逃げます</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Gp3QntVGxM?si=5mecBfibeFhME5LX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h2><span class="yellow">マンゴーが自生してます</span></h2>
 <a href="20240107_006.JPG" data-lightbox="abc"><img src="20240107_006.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">棒でつついて落とせば、皮を剥いて食べられます</span></h2>
