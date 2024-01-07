@@ -71,7 +71,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(20240106_018.JPG) center/cover no-repeat;
+background:url(20240107_015.JPG) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
@@ -130,7 +130,31 @@ p.note { display: none; }
 <!--ここから下が、本体部分-->
 <br><p>タイ観光</p>
 <h2><span class="yellow">7日はチェンライ近郊を探索！</span></h2>
-
+<a href="20240107_001.JPG" data-lightbox="abc"><img src="20240107_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240107_002.JPG" data-lightbox="abc"><img src="20240107_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240107_003.JPG" data-lightbox="abc"><img src="20240107_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240107_004.JPG" data-lightbox="abc"><img src="20240107_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240107_005.JPG" data-lightbox="abc"><img src="20240107_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240107_006.JPG" data-lightbox="abc"><img src="20240107_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240107_007.JPG" data-lightbox="abc"><img src="20240107_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240107_008.JPG" data-lightbox="abc"><img src="20240107_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240107_009.JPG" data-lightbox="abc"><img src="20240107_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240107_010.JPG" data-lightbox="abc"><img src="20240107_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240107_011.JPG" data-lightbox="abc"><img src="20240107_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240107_012.JPG" data-lightbox="abc"><img src="20240107_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240107_013.JPG" data-lightbox="abc"><img src="20240107_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240107_014.JPG" data-lightbox="abc"><img src="20240107_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240107_015.JPG" data-lightbox="abc"><img src="20240107_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240107_016.JPG" data-lightbox="abc"><img src="20240107_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240107_017.JPG" data-lightbox="abc"><img src="20240107_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240107_018.JPG" data-lightbox="abc"><img src="20240107_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240107_019.JPG" data-lightbox="abc"><img src="20240107_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240107_020.JPG" data-lightbox="abc"><img src="20240107_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240107_021.JPG" data-lightbox="abc"><img src="20240107_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240107_022.JPG" data-lightbox="abc"><img src="20240107_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240107_023.JPG" data-lightbox="abc"><img src="20240107_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240107_024.JPG" data-lightbox="abc"><img src="20240107_024.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240107_025.JPG" data-lightbox="abc"><img src="20240107_025.JPG" alt="サンプル画像" width="900" /></a>
 
 
 
