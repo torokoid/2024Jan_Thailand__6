@@ -129,31 +129,50 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
 <br><p>タイ観光</p>
-<h2><span class="yellow">7日はチェンライ近郊を探索！</span></h2>
+<h2><span class="yellow">7日はチェンライ近郊を探索！<br>バンコクに比べると自然環境の豊かさがすごい！<br>ちょっとした広場をうろうろします</span></h2>
 <a href="20240107_001.JPG" data-lightbox="abc"><img src="20240107_001.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">アヒルのメスが卵を温めています</span></h2>
 <a href="20240107_002.JPG" data-lightbox="abc"><img src="20240107_002.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">椰子の木の根元に２羽</span></h2>
 <a href="20240107_003.JPG" data-lightbox="abc"><img src="20240107_003.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">洗面器の中にも</span></h2>
 <a href="20240107_004.JPG" data-lightbox="abc"><img src="20240107_004.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240107_005.JPG" data-lightbox="abc"><img src="20240107_005.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">マンゴーが自生してます</span></h2>
 <a href="20240107_006.JPG" data-lightbox="abc"><img src="20240107_006.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">棒でつついて落とせば、皮を剥いて食べられます</span></h2>
+<a href="20240107_005.JPG" data-lightbox="abc"><img src="20240107_005.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">オートバイは日焼け防止で長袖</span></h2>
 <a href="20240107_007.JPG" data-lightbox="abc"><img src="20240107_007.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">食堂のオブジェが個性的です</span></h2>
 <a href="20240107_008.JPG" data-lightbox="abc"><img src="20240107_008.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">外壁は自然のままのお花で飾ります</span></h2>
 <a href="20240107_009.JPG" data-lightbox="abc"><img src="20240107_009.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">入ってみます</span></h2>
 <a href="20240107_010.JPG" data-lightbox="abc"><img src="20240107_010.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">中は綺麗で、ウエイトレスさんが注文聞きにきます</span></h2>
 <a href="20240107_011.JPG" data-lightbox="abc"><img src="20240107_011.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">お昼は無難にチャーハン</span></h2>
 <a href="20240107_012.JPG" data-lightbox="abc"><img src="20240107_012.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">もう一つはガパオ（炒めた肉とご飯）</span></h2>
 <a href="20240107_013.JPG" data-lightbox="abc"><img src="20240107_013.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">食事と飲み物入れて、249バーツ、約1,000円でした</span></h2>
 <a href="20240107_014.JPG" data-lightbox="abc"><img src="20240107_014.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240107_015.JPG" data-lightbox="abc"><img src="20240107_015.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">ねこが首輪してると思いきや、しっぽの怪我の治療中でした</span></h2>
 <a href="20240107_016.JPG" data-lightbox="abc"><img src="20240107_016.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">厚底のクロックス、初めてみるかも・・・日本にもあるのかな？</span></h2>
 <a href="20240107_017.JPG" data-lightbox="abc"><img src="20240107_017.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">スーパーのレジのお姉さんは、みなメイクが濃いめ</span></h2>
 <a href="20240107_018.JPG" data-lightbox="abc"><img src="20240107_018.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">道のお花たちも、南国ムード満点</span></h2>
 <a href="20240107_019.JPG" data-lightbox="abc"><img src="20240107_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240107_020.JPG" data-lightbox="abc"><img src="20240107_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240107_021.JPG" data-lightbox="abc"><img src="20240107_021.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240107_022.JPG" data-lightbox="abc"><img src="20240107_022.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240107_023.JPG" data-lightbox="abc"><img src="20240107_023.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">本日の晩御飯</span></h2>
 <a href="20240107_024.JPG" data-lightbox="abc"><img src="20240107_024.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">今日も夕焼けグラデーションが綺麗でした</span></h2>
 <a href="20240107_025.JPG" data-lightbox="abc"><img src="20240107_025.JPG" alt="サンプル画像" width="900" /></a>
 
 
