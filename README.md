@@ -162,7 +162,7 @@ p.note { display: none; }
 <a href="20240107_015.JPG" data-lightbox="abc"><img src="20240107_015.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">ねこが首輪してると思いきや、しっぽの怪我の治療中でした</span></h2>
 <a href="20240107_016.JPG" data-lightbox="abc"><img src="20240107_016.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="yellow">厚底のクロックス、初めてみるかも・・・日本にもあるのかな？</span></h2>
+<h2><span class="yellow">厚底サンダルのクロックス、初めてみるかも<br>・・・日本にもあるのかな？</span></h2>
 <a href="20240107_017.JPG" data-lightbox="abc"><img src="20240107_017.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">スーパーのレジのお姉さんは、みなメイクが濃いめ</span></h2>
 <a href="20240107_018.JPG" data-lightbox="abc"><img src="20240107_018.JPG" alt="サンプル画像" width="900" /></a>
@@ -172,7 +172,7 @@ p.note { display: none; }
 <a href="20240107_021.JPG" data-lightbox="abc"><img src="20240107_021.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240107_022.JPG" data-lightbox="abc"><img src="20240107_022.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240107_023.JPG" data-lightbox="abc"><img src="20240107_023.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="yellow">本日の晩御飯</span></h2>
+<h2><span class="yellow">本日の晩御飯はこれとビール</span></h2>
 <a href="20240107_024.JPG" data-lightbox="abc"><img src="20240107_024.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">今日も夕焼けグラデーションが綺麗でした</span></h2>
 <a href="20240107_025.JPG" data-lightbox="abc"><img src="20240107_025.JPG" alt="サンプル画像" width="900" /></a>
